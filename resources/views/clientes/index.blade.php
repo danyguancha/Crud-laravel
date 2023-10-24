@@ -17,7 +17,6 @@
                 <option value="direccion">Dirección</option>
                 <option value="ciudad">Ciudad</option>
                 <option value="pais">País</option>
-                <!-- Agrega más opciones según tus necesidades -->
             </select>
             <input type="text" name="busqueda" class="form-control" placeholder="Buscar...">
             <button type="submit" class="btn btn-primary">Filtrar</button>
